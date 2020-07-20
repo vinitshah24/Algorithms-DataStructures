@@ -1,0 +1,9 @@
+#Eclipse
+/bin/
+.classpath
+.project
+
+#Python
+.mypy_cache
+test.py
+challanges/
